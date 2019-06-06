@@ -19,4 +19,16 @@ public class RESTAPITest {
 		System.out.println("Twitter");
 	}
 	
+	@Test
+	public void deletFaceB()
+	{
+		System.out.println("facebook");
+	}
+	
+	@Test
+	public void deletFaceA()
+	{
+		System.out.println("facebookA");
+	}
+	
 }
