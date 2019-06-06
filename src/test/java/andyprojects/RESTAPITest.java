@@ -30,5 +30,12 @@ public class RESTAPITest {
 	{
 		System.out.println("facebookA");
 	}
+	
+	@Test
+	public void deletFaceC()
+	{
+		System.out.println("facebookC");
+	}
+	
 
 }
