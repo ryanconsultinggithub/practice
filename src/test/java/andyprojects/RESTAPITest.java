@@ -25,10 +25,6 @@ public class RESTAPITest {
 		System.out.println("facebook");
 	}
 	
-	@Test
-	public void deletFaceA()
-	{
-		System.out.println("facebookA");
-	}
-	
+
+
 }
